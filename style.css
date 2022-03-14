@@ -7,7 +7,7 @@
 .header{
     width: 100%;
     height: 100vh;
-    background-image:  linear-gradient(rgba(220, 220, 241, 0.5),rgba(220,220,241,0.5)),url(../website.png) ;
+    background-image:  linear-gradient(rgba(220, 220, 241, 0.5),rgba(220,220,241,0.5)),url(website.png) ;
     background-position: center;    
     background-size:cover;
  
